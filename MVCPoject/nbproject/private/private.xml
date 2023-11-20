@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Model/UserDao.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/web/AllProduct.jsp</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Model/UserDto.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/web/UserLogin.jsp</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Controller/UserLoginTask.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/web/Shoping.jsp</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Controller/AllProductTask.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/web/DashBard.jsp</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/web/ProductHomePage.jsp</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/services/GetConnection.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Controller/AddProduct.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Model/DTOClass.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Model/productDto.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Model/ProductDao.java</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/web/AddProcut.jsp</file>
+            <file>file:/C:/Users/dell/OneDrive/Documents/NetBeansProjects/MVCPoject/src/java/com/employee/Controller/RegistrationTask.java</file>
+        </group>
+    </open-files>
+</project-private>

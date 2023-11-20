@@ -1,0 +1,15 @@
+
+
+Roll Number:
+Username:
+Father Name:
+Mother Name:
+Mobile Number:
+Email:
+Password:
+Confirm Password:
+r@gmail.com
+Password:1234
+Confirm Password:1234
+
+r

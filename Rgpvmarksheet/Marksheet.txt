@@ -1,0 +1,253 @@
+
+#Student Marksheet
+#Sun Sep 10 17:20:13 GMT-05:00 2023
+Marks12=100
+Marks22=100
+Marks32=100
+Marks42=100
+Marks52=100
+Sub12=\                       Hindi
+Sub22=\                      English
+Sub32=\                      Physics
+Sub42=\                    Chemestry
+Sub52=\                     Maths
+#Student Marksheet
+#Mon Sep 11 10:46:49 GMT-05:00 2023
+Marks17=10
+Marks27=10
+Marks37=10
+Marks47=10
+Marks57=10
+Sub17=\                       Hindi
+Sub27=\                      English
+Sub37=\                      Physics
+Sub47=\                    Chemestry
+Sub57=\                     Maths
+#Student Marksheet
+#Mon Sep 11 10:46:55 GMT-05:00 2023
+Marks17=10
+Marks27=10
+Marks37=10
+Marks47=10
+Marks57=10
+Sub17=\                       Hindi
+Sub27=\                      English
+Sub37=\                      Physics
+Sub47=\                    Chemestry
+Sub57=\                     Maths
+#Student Marksheet
+#Mon Sep 11 10:47:22 GMT-05:00 2023
+Marks17=10
+Marks27=10
+Marks37=10
+Marks47=10
+Marks57=10
+Sub17=\                       Hindi
+Sub27=\                      English
+Sub37=\                      Physics
+Sub47=\                    Chemestry
+Sub57=\                     Maths
+#Student Marksheet
+#Mon Sep 11 16:40:01 GMT-05:00 2023
+Marks120=100
+Marks220=100
+Marks320=100
+Marks420=100
+Marks520=100
+Sub120=\                       Hindi
+Sub220=\                      English
+Sub320=\                      Physics
+Sub420=\                    Chemestry
+Sub520=\                     Maths
+#Student Marksheet
+#Tue Sep 12 10:36:29 GMT-05:00 2023
+Marks121=100
+Marks221=100
+Marks321=100
+Marks421=100
+Marks521=100
+Sub121=\                       Hindi
+Sub221=\                      English
+Sub321=\                      Physics
+Sub421=\                    Chemestry
+Sub521=\                     Maths
+#Student Marksheet
+#Tue Sep 12 10:45:15 GMT-05:00 2023
+Marks122=100
+Marks222=100
+Marks322=100
+Marks422=100
+Marks522=100
+Sub122=\                       Hindi
+Sub222=\                      English
+Sub322=\                      Physics
+Sub422=\                    Chemestry
+Sub522=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:02:47 GMT-05:00 2023
+Marks122=10
+Marks222=10
+Marks322=10
+Marks422=10
+Marks522=10
+Sub122=\                       Hindi
+Sub222=\                      English
+Sub322=\                      Physics
+Sub422=\                    Chemestry
+Sub522=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:10 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:12 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:14 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:14 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:14 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:14 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:15 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:15 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Tue Sep 12 18:04:15 GMT-05:00 2023
+Marks1103=21
+Marks2103=21
+Marks3103=21
+Marks4103=21
+Marks5103=21
+Sub1103=\                       Hindi
+Sub2103=\                      English
+Sub3103=\                      Physics
+Sub4103=\                    Chemestry
+Sub5103=\                     Maths
+#Student Marksheet
+#Mon Oct 30 14:06:00 GMT-05:00 2023
+Marks133=45
+Marks233=55
+Marks333=55
+Marks433=56
+Marks533=60
+Sub133=\                       Hindi
+Sub233=\                      English
+Sub333=\                      Physics
+Sub433=\                    Chemestry
+Sub533=\                     Maths
+#Student Marksheet
+#Mon Oct 30 14:06:03 GMT-05:00 2023
+Marks133=45
+Marks233=55
+Marks333=55
+Marks433=56
+Marks533=60
+Sub133=\                       Hindi
+Sub233=\                      English
+Sub333=\                      Physics
+Sub433=\                    Chemestry
+Sub533=\                     Maths
+#Student Marksheet
+#Mon Oct 30 14:06:06 GMT-05:00 2023
+Marks133=45
+Marks233=55
+Marks333=55
+Marks433=56
+Marks533=60
+Sub133=\                       Hindi
+Sub233=\                      English
+Sub333=\                      Physics
+Sub433=\                    Chemestry
+Sub533=\                     Maths
+#Student Marksheet
+#Mon Oct 30 14:07:06 GMT-05:00 2023
+Marks131=65
+Marks231=55
+Marks331=45
+Marks431=67
+Marks531=56
+Sub131=\                       Hindi
+Sub231=\                      English
+Sub331=\                      Physics
+Sub431=\                    Chemestry
+Sub531=\                     Maths

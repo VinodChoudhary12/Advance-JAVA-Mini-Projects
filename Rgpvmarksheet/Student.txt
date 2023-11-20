@@ -1,0 +1,14 @@
+#Student Information
+#Mon Oct 30 14:04:33 GMT-05:00 2023
+UserArti=Arti
+UserArtiPassword=123456
+UserNihar1=Nihar1
+UserNihar1Password=1234568667868
+UserSiya1=Siya1
+UserSiya123=Siya123
+UserSiya123Password=123456
+UserSiya1Password=123456
+UserVinod=Vinod
+UserVinodPassword=123456
+Useraniket=aniket
+UseraniketPassword=aniket
